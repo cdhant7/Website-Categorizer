@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key="sk-proj-J4ue6yaw1YyVgfqhayOIT3BlbkFJ9VyoB8dDMUsIN5rjxDRq")
+client = OpenAI(api_key="Your API key here")
 
 #while True:
 ask = input("Enter Link:")
